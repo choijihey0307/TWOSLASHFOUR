@@ -10,7 +10,7 @@ body{
 }
 
 #wrap {width: 100%; } 
-#wrap header { background: url(../images/video.gif)no-repeat center/cover;  width:100%; height:500px; min-width: 100%; } 
+#wrap header { background: url(../images/video.gif)no-repeat center/cover;  width:1300px; height:400px; min-width: 100%; } 
 
 #wrap header ul { width:150px; height:40px; border-radius: 30px; background-color: beige; opacity: 0.3; 
     margin-right:500px; margin-top: 50px; float:right; display: flex; justify-content:space-evenly; padding-top: 20px; } 
